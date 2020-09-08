@@ -4,6 +4,12 @@
 
 text
 
+---
+
+And I make this amazing change to the file
+
+---
+
 *italics* formatted
 
 **bold** formatted
