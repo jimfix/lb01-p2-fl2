@@ -1,0 +1,12 @@
+
+0. "Accept an assignment" -> creates a remote repo just for you (private)
+1. "git clone" your own repo to get a local copy on your machine
+2. edit/add to that repo (locally)
+3. "git add" all the files you've created/changed to stage the commit
+4. "git commit" with a brief message (still local)
+(can repeat 2-3-4 several times)
+5. "git push origin master" those changes to the remote
+6. then you'll make a "pull request"
+
+
+
